@@ -16,7 +16,9 @@ To setup this system, the following steps need to be followed:
   
   2. Install the Python plugin.
   
-  3. Open car_tracking folder (inside the edge folder in this repository)
+  3. Open car_tracking folder (inside the edge folder in this repository).
+  
+  4. Now the sketch is ready to be compiled and executed.
   
 ### Speed and acceleration acquisition system
 
@@ -32,9 +34,11 @@ To setup this system, the following steps need to be followed:
     - Adafruit_LSM9DS1
     - Adafruit_Sensor
 
-  4. Put the "EdgeEngine_library" inside the "libraries" folder. Now the sketch is ready to be compiled and executed by the board.
+  4. Put the "EdgeEngine_library" inside the "libraries" folder. 
   
   5. Open car_state folder (inside the edge folder in this repository).
+  
+  6. Now the sketch is ready to be compiled and executed by the board.
  
  ### Car Manager
   
