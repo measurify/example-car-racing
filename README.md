@@ -26,8 +26,8 @@ To setup this system, the following steps need to be followed:
 
   1. Install Arduino IDE.
   
-  2. Inside the IDE settings, add your board.
-
+  2. Inside the IDE settings, in: "File --> Settings --> Additional Boards Manager URLs" Specify the following libraries to make the IDE work with ESP32 boards:            https://dl.espressif.com/dl/package_esp32_index.json
+  
   3. Install the following libraries:
     - TinyGPSPlus
     - Wire
